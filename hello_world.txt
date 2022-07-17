@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a couple of lines of code for the odin project
+=======
+
+>>>>>>> a32b3309e9099be3ba9a38101588283022c41dff
